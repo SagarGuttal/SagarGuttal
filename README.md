@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sagar_guttal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar_guttal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar guttal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar guttal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagar-guttal-734829235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar guttal" height="30" width="40" /></a>
 <a href="https://kaggle.com/sagar guttal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sagar guttal" height="30" width="40" /></a>
 <a href="https://fb.com/sagar guttal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar guttal" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_sagya220f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_sagya220f" height="30" width="40" /></a>
