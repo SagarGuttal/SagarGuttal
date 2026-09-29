@@ -1,118 +1,85 @@
-<!-- ========================================= -->
-<!--         SAGAR GUTTAL - AI ENGINEER         -->
-<!-- ========================================= -->
-
 <div align="center">
 
-## **Sagar Guttal**
+  <img src="https://github.com/SagarGuttal.png" width="180" height="180" alt="Sagar Guttal" style="border-radius: 50%; border: 3px solid #7c3aed; box-shadow: 0 0 30px rgba(124,58,237,0.35);" />
 
-### Senior AI Engineer | ML Systems | Generative AI | Production-Scale Solutions
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" />
+    Hi, I'm <span style="color:#7c3aed;">Sagar Guttal</span>
+  </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sagarguttal&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/SagarGuttal?label=Followers&style=for-the-badge&color=blue)
+  <h3>
+    Senior AI Engineer • Machine Learning • Deep Learning • Generative AI
+  </h3>
 
-<img src="https://github.com/SagarGuttal.png" width="180" height="180" alt="Sagar Guttal" style="border-radius:50%; border: 3px solid #0e75b6;" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sagarguttal&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/SagarGuttal?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+  </p>
 
----
-
-### Connect & Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-guttal-734829235)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saguguttal220@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarGuttal)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sagarguttal)
+  <p>
+    <a href="https://linkedin.com/in/sagar-guttal-734829235"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:saguguttal220@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/SagarGuttal"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://kaggle.com/sagarguttal"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  </p>
 
 </div>
 
 ---
 
-## **Professional Overview**
+## About Me
 
-I'm a **Senior AI Engineer** with **3+ years of production-grade experience** architecting and deploying enterprise-scale machine learning solutions. My expertise spans the full AI lifecycle—from research and prototyping to production deployment and optimization.
+I am a results-driven <strong>Senior AI Engineer</strong> with <strong>3+ years of hands-on experience</strong> building intelligent, production-ready AI systems that solve real business problems. My work spans machine learning, deep learning, NLP, computer vision, and generative AI, with a strong focus on transforming research ideas into scalable, impactful products.
 
-**Key Focus Areas:**
-- 🤖 **Machine Learning & Deep Learning**: Building robust, scalable models for real-world applications
-- 🧠 **Generative AI & LLMs**: Fine-tuning, RAG systems, and AI agents for enterprise use cases
-- 🔬 **ML Ops & Production Systems**: Model deployment, monitoring, and optimization
-- 📊 **End-to-End AI Solutions**: From problem definition to business impact
-- 🌍 **Client-Facing Delivery**: Translating complex ML concepts into actionable business value
-
----
-
-## **Technical Proficiency**
-
-### **Core ML Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### **Generative AI & NLP**
-
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-00A98F?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-
-### **Computer Vision & Data**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### **Visualization & Analytics**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### **Engineering & DevOps**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🤖 Building intelligent systems using Machine Learning and Deep Learning
+- 🧠 Working across LLMs, Generative AI, RAG, and AI agents
+- 📊 Turning data into actionable insights and production-ready solutions
+- 🌍 Delivering client-facing AI products with measurable business impact
+- 🔬 Continuously exploring emerging technologies and practical applications
+- 🤝 Open to collaborations on meaningful AI and GenAI projects
 
 ---
 
-## **Specializations**
+## Core Expertise
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%">
-      <h4 align="center">🧠 Machine Learning Systems</h4>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AI & ML</h3>
       <p align="center">
-        Model Architecture · Algorithm Optimization<br>
-        Feature Engineering · Hyperparameter Tuning<br>
-        Cross-Validation · Production Pipelines
+        Model Development<br>
+        Deep Learning<br>
+        Optimization & Tuning<br>
+        Scalable ML Pipelines
       </p>
     </td>
-    <td width="50%">
-      <h4 align="center">✨ Generative AI</h4>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ Generative AI</h3>
       <p align="center">
-        LLM Fine-Tuning · Prompt Engineering<br>
-        RAG Implementation · AI Agents<br>
-        Transformer Models · Vector Databases
+        LLMs<br>
+        RAG Systems<br>
+        AI Agents<br>
+        Prompt Engineering
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4 align="center">👁️ Computer Vision</h4>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ Computer Vision</h3>
       <p align="center">
-        Image Classification · Object Detection<br>
-        Semantic Segmentation · Visual Analytics<br>
-        Model Inference · Real-time Processing
+        Image Processing<br>
+        OCR & Detection<br>
+        Feature Extraction<br>
+        Visual Analytics
       </p>
     </td>
-    <td width="50%">
-      <h4 align="center">📈 Data Science</h4>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Data Science</h3>
       <p align="center">
-        Statistical Analysis · Predictive Modeling<br>
-        Data Preprocessing · Exploratory Analysis<br>
-        Dashboard Development · Storytelling
+        Data Analysis<br>
+        Feature Engineering<br>
+        Predictive Modeling<br>
+        Visualization
       </p>
     </td>
   </tr>
@@ -120,34 +87,74 @@ I'm a **Senior AI Engineer** with **3+ years of production-grade experience** ar
 
 ---
 
-## **Performance Metrics**
+## Tech Stack
+
+### AI & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+### Deep Learning & GenAI
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00A98F?style=for-the-badge" />
+</p>
+
+### Visualization & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarGuttal&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarGuttal&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarGuttal&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarGuttal&layout=compact&hide_border=true&theme=tokyonight)
+  <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SagarGuttal&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarGuttal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## **Let's Collaborate**
+## Open to Collaboration
 
-I'm actively seeking opportunities to work on **innovative AI/ML projects** that drive business value and push technical boundaries.
+I am actively looking to collaborate on projects involving:
+- AI-powered products
+- ML systems and models
+- Generative AI and LLM applications
+- Data-driven business intelligence solutions
 
-- 💼 **Open to**: Freelance projects, consulting, team collaboration, and full-time roles
-- 🎯 **Focus**: Production-scale AI solutions, GenAI applications, and research partnerships
-- 📬 **Reach Out**: [Email](mailto:saguguttal220@gmail.com) · [LinkedIn](https://linkedin.com/in/sagar-guttal-734829235)
+<p align="center">
+  <a href="https://linkedin.com/in/sagar-guttal-734829235"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saguguttal220@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-**Building intelligent systems. Solving complex problems. Driving innovation.**
-
-*Let's create something exceptional together.*
+  <h3>Building intelligent systems for a smarter future.</h3>
+  <p><i>Let's connect, innovate, and build something meaningful together.</i></p>
 
 </div>
