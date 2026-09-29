@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://github.com/SagarGuttal.png" width="180" height="180" alt="Sagar Guttal" style="border-radius:50%; border:3px solid #8b5cf6; box-shadow:0 12px 28px rgba(139,92,246,0.35);" />
+  <img src="https://github.com/SagarGuttal.png" width="180" height="180" alt="Sagar Guttal" style="border-radius:50%; border:3px solid #9b7bff; box-shadow:0 18px 40px rgba(155,123,255,0.32);" />
 
-  <h1 style="margin-bottom:6px;">
-    <span style="color:#8b5cf6;">Sagar Guttal</span>
+  <h1>
+    <span style="color:#bca8ff;">Sagar Guttal</span>
   </h1>
 
-  <h3 style="margin-top:0; color:#dfe7ff;">
-    Senior AI Engineer • ML Systems • Generative AI • Intelligent Products
+  <h3 style="color:#dfe7ff; margin-top:0; margin-bottom:18px;">
+    Senior AI Engineer • Machine Learning • Deep Learning • Generative AI
   </h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=sagarguttal&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/SagarGuttal?label=FOLLOWERS&style=for-the-badge&color=8b5cf6" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=sagarguttal&label=PROFILE+VIEWS&color=9b7bff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/SagarGuttal?label=FOLLOWERS&style=for-the-badge&color=9b7bff" alt="Followers" />
   </p>
 
   <p>
@@ -25,30 +25,30 @@
 <hr>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Specialist;Generative+AI+Builder;Product-Driven+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=9B7BFF&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Expert;Generative+AI+Builder;Product-Focused+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  I design and deploy intelligent systems that turn data into business value — from <strong>ML pipelines</strong> and <strong>deep learning models</strong> to <strong>LLMs</strong>, <strong>RAG systems</strong>, and <strong>AI-powered experiences</strong>.
+  I build <strong>intelligent systems</strong> that combine <strong>machine learning</strong>, <strong>deep learning</strong>, and <strong>generative AI</strong> to create products that are practical, scalable, and meaningful.
 </p>
 
 <hr>
 
-## Why I Build
+## Signature Value
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center" style="padding:14px;">
-      <h3>📈 Product Impact</h3>
-      <p>Translate complex AI ideas into scalable solutions that move real-world metrics.</p>
+    <td width="33%" valign="top" align="center" style="padding:18px;">
+      <h3>📌 Strategy</h3>
+      <p>Translate complex AI ideas into clear, measurable business value.</p>
     </td>
-    <td width="33%" valign="top" align="center" style="padding:14px;">
-      <h3>⚙️ Engineering Discipline</h3>
-      <p>Build robust pipelines with clean architecture, performance awareness, and deployable logic.</p>
+    <td width="33%" valign="top" align="center" style="padding:18px;">
+      <h3>⚙️ Execution</h3>
+      <p>Build reliable, production-ready ML systems with disciplined engineering.</p>
     </td>
-    <td width="33%" valign="top" align="center" style="padding:14px;">
+    <td width="33%" valign="top" align="center" style="padding:18px;">
       <h3>🚀 Innovation</h3>
-      <p>Explore emerging AI capabilities and turn them into practical, usable systems.</p>
+      <p>Explore emerging AI capabilities and turn them into useful, high-impact experiences.</p>
     </td>
   </tr>
 </table>
@@ -60,12 +60,12 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🧠 AI & ML</h3>
-      <p>Machine Learning • Deep Learning • Model Optimization • Predictive Systems</p>
+      <h3>🧠 AI & Machine Learning</h3>
+      <p>Model Development • Deep Learning • Optimization • Predictive Systems</p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>✨ Generative AI</h3>
-      <p>LLMs • Prompt Engineering • RAG • AI Agents • NLP Systems</p>
+      <p>LLMs • RAG • Prompt Design • AI Agents • NLP Systems</p>
     </td>
   </tr>
   <tr>
@@ -82,9 +82,9 @@
 
 <hr>
 
-## Tooling & Stack
+## Stack & Tooling
 
-### AI, ML & Data
+### AI / ML / Data
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -92,7 +92,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### Deep Learning & GenAI
+### Deep Learning / GenAI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/RAG-00A98F?style=for-the-badge" />
 </p>
 
-### Computer Vision & Visualization
+### Computer Vision / Visualization
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-### Engineering & Workflow
+### Workflow / Delivery
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -132,18 +132,18 @@
 
 <hr>
 
-## Let’s Build Something Meaningful
+## Open to the Next Chapter
 
 <p align="center">
-  I’m open to collaborations on impactful AI and GenAI initiatives, product innovation, and intelligent system design.
+  I’m actively exploring collaborations on <strong>AI-powered products</strong>, <strong>LLM-driven experiences</strong>, and <strong>high-impact machine learning systems</strong>.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sagar-guttal-734829235"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/sagar-guttal-734829235"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:saguguttal220@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
-  <h3 style="color:#8b5cf6;">Building intelligent systems for a smarter future.</h3>
-  <p><i>Designing AI experiences that feel as good as they perform.</i></p>
+  <h3 style="color:#bca8ff;">Building intelligent systems for a smarter future.</h3>
+  <p><i>Designing AI experiences that are as refined as they are powerful.</i></p>
 </div>
