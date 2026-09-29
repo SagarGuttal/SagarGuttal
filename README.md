@@ -1,10 +1,9 @@
-
 <!-- ========================================= -->
 <!--              SAGAR GUTTAL                 -->
 <!-- ========================================= -->
 
 <h1 align="center">
-  Hi 👋, I'm <span>Sagar Guttal</span>
+  Hi 👋, I'm <span><strong>Sagar Guttal</strong></span>
 </h1>
 
 <h3 align="center">
@@ -38,49 +37,49 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **Senior AI Engineer** with **3.3+ years of hands-on industry experience**, passionate about building intelligent, scalable, and production-ready AI solutions.
+I am a results-driven <strong>Senior AI Engineer</strong> with over <strong>3 years of hands-on experience</strong> building intelligent, scalable, and production-ready AI solutions. My work spans machine learning, deep learning, natural language processing, computer vision, and generative AI, with a strong focus on turning research-oriented ideas into practical business impact.
 
-- 🤖 Specialized in Machine Learning, Deep Learning, NLP, Computer Vision, and LLMs.
-- 🧠 Experienced in developing end-to-end AI solutions, from data preprocessing to model deployment.
-- 🔍 Interested in Generative AI, Retrieval-Augmented Generation (RAG), and AI agents.
-- 🌍 Experienced in client-facing projects and delivering production-grade AI applications.
-- 📚 Continuously exploring emerging AI technologies and building practical solutions.
-- 🤝 Open to collaborating on impactful AI and GenAI projects.
+- 🤖 Specializing in Machine Learning, Deep Learning, NLP, Computer Vision, and LLMs
+- 🧠 Building end-to-end AI systems from data preparation and model development to deployment
+- 🔍 Passionate about Generative AI, RAG, and AI agents for real-world use cases
+- 🌍 Experience working with clients and delivering production-grade AI applications
+- 📚 Continuously exploring emerging AI technologies and applying them to solve meaningful problems
+- 🤝 Open to collaborating on impactful AI and GenAI projects
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Core Expertise
 
-### 💻 Programming & Data Science
+### AI & Data Science
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### 🤖 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### 🧠 NLP, LLMs & Computer Vision
+### NLP, LLMs & Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-00A98F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-00A98F?style=for-the-badge" />
 </p>
 
-### 📊 Data Visualization
+### Data Visualization & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
@@ -88,7 +87,7 @@ I'm a **Senior AI Engineer** with **3.3+ years of hands-on industry experience**
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### Tools & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -101,7 +100,7 @@ I'm a **Senior AI Engineer** with **3.3+ years of hands-on industry experience**
 
 ---
 
-## 💡 Areas of Interest
+## Areas of Interest
 
 <table>
   <tr>
@@ -140,32 +139,20 @@ I'm a **Senior AI Engineer** with **3.3+ years of hands-on industry experience**
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=SagarGuttal&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="Sagar's GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarGuttal&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagarGuttal&show_icons=true&hide_border=true&theme=tokyonight" alt="Sagar's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarGuttal&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SagarGuttal&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarGuttal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sagar-guttal-734829235">
@@ -189,13 +176,13 @@ I'm a **Senior AI Engineer** with **3.3+ years of hands-on industry experience**
 ---
 
 <h3 align="center">
-  💫 Building Intelligent Solutions for a Smarter Tomorrow
+  Building intelligent solutions for a smarter future.
 </h3>
 
 <p align="center">
-  ⭐ Always open to collaborating on impactful AI & GenAI projects.
+  <strong>Open to collaboration on impactful AI and GenAI initiatives.</strong>
 </p>
 
 <p align="center">
-  <i>Let's connect, innovate, and build something meaningful together!</i>
+  <i>Let’s connect, innovate, and build something meaningful together.</i>
 </p>
